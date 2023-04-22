@@ -23,5 +23,4 @@ createRoot(rootElement).render( // Use createRoot instead of render
   </UserProvider>
 </BrowserRouter>
 </React.StrictMode>,
-rootElement
 );
